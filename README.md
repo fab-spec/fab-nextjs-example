@@ -1,4 +1,8 @@
-# NextJS on FABs
+# DEPRECATED, see https://github.com/fab-spec/nextjs-demo
+
+---
+
+## NextJS on FABs
 
 This is a _proof of concept_ getting Frontend Application Bundles (FABs, see more at https://fab.dev).
 
